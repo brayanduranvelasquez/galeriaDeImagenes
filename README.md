@@ -4,4 +4,6 @@ Las imagenes al entrar al sitio web se iran descargando y mostrando un loader mi
 
 Tambien se pueden utilizar las teclas de izquierda y derecha para retroceder y avanzar respectivamente cuando se este visualizando las imágenes en el Carousel.
 
+Sitio gh-pages -> https://brayandvelasquez.github.io/galeriaDeImagenes/
+
 - VueJS y BulmaCss.
